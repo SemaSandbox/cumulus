@@ -1,4 +1,4 @@
-'use strict';
+# this is a test. 'use strict';
 
 const path = require('path');
 const { readFileSync } = require('fs');
